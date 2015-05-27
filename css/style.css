@@ -1,3 +1,9 @@
 body {
 background: orange;
 }
+
+td {
+border: 2px solid white;
+width:150px;
+height:150px;
+}
